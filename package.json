@@ -1,0 +1,25 @@
+{
+  "name": "explain-unicloud-mvc",
+  "version": "1.0.0",
+  "description": "示例地址：[https://tcb-e386czuna1dv2wib7e6bd-d064f3.service.tcloudbase.com/http/pages](https://tcb-e386czuna1dv2wib7e6bd-d064f3.service.tcloudbase.com/http/pages)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Sansnn",
+  "license": "MIT",
+  "dependencies": {
+    "explain-unicloud": "^2.0.5",
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/explaincloud/explain-unicloud-mvc.git"
+  },
+  "bugs": {
+    "url": "https://github.com/explaincloud/explain-unicloud-mvc/issues"
+  },
+  "homepage": "https://github.com/explaincloud/explain-unicloud-mvc#readme"
+}
